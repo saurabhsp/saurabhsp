@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | PHP & Laravel Artisan | MERN Stack Builder | Code Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F779C9&center=true&vCenter=true&multiline=true&width=800&lines=Turning+Ideas+Into+Code+One+Line+at+a+Time;Full+Stack+Developer+|+Problem+Solver+|+Fast+Learner;PHP+%7C+Laravel+%7C+MERN+%7C+MySQL+%7C+React+%7C+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F779C9&center=true&vCenter=true&multiline=true&width=800&lines=Hello+There!+Thank+you+for+visiting+my+Github+profile;" alt="Typing SVG" />
 </p>
 
 
