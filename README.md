@@ -5,6 +5,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F779C9&center=true&vCenter=true&multiline=true&width=800&lines=Turning+Ideas+Into+Code+One+Line+at+a+Time;Full+Stack+Developer+|+Problem+Solver+|+Fast+Learner;PHP+%7C+Laravel+%7C+MERN+%7C+MySQL+%7C+React+%7C+Node.js" alt="Typing SVG" />
 </p>
 
+
+
+
+
+
+
+
+
 ---
 
 ### 🔧 My Development Arsenal
