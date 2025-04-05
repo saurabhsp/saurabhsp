@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saurabh Pakhale</h1>
+<h3 align="center">Full Stack Developer | PHP & Laravel Artisan | MERN Stack Builder | Code Enthusiast</h3>
 
-<!--
-**saurabhsp/saurabhsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F779C9&center=true&vCenter=true&multiline=true&width=800&lines=Turning+Ideas+Into+Code+One+Line+at+a+Time;Full+Stack+Developer+|+Problem+Solver+|+Fast+Learner;PHP+%7C+Laravel+%7C+MERN+%7C+MySQL+%7C+React+%7C+Node.js" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 My Development Arsenal
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="60" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma" />
+</p>
+
+---
+
+### ✨ Featured GIF – Real Code Energy
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
+</p>
+
+---
+
+### 🧠 Languages & Frameworks I Work With
+
+```txt
+• PHP / Laravel — My go-to backend framework. Artisan commands, Eloquent ORM, queues, and API routes — love it all.
+• JavaScript / TypeScript — For building powerful frontend and full-stack apps.
+• MERN Stack — React for UI, Node.js + Express for APIs, MongoDB for NoSQL power.
+• SQL / MySQL — Structured data handling like a pro.
+• HTML/CSS/SASS — For those pixel-perfect responsive designs.
